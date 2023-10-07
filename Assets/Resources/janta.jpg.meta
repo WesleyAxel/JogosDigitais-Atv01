@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: a7edbcd938143f4458aa4779f5a8972d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: janta - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574f6788b114124f8478fc1f20bcceb
+      internalID: 1904342387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 551.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a36515f1b1414e88b32a91f209b09
+      internalID: -439221012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 551.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1088191eeaec9164ca2c46f415afb661
+      internalID: -1907214018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 551.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e10136b2df5b4aa48921d9b49e2cf
+      internalID: -280950407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 551.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5245647105194db7c25b1af8e767e
+      internalID: -154946962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d090b40b0ceae04994fd3694c128a0b
+      internalID: 824397002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 414.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdceeeac67ff6fc4888bebb711bd57b7
+      internalID: -977495896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 414.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7eba8b16e42f24980130ae9ca5a9ed
+      internalID: 2092550522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 414.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a0d77bf5a9104086a26cdc43c1f02
+      internalID: 251377040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 414.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b956413c97b604c8f1a7290a09302f
+      internalID: -1098991024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a21a29fce911489cbe0d73cf5e816
+      internalID: 1686712768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 277.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bb407f8f5f6ea4a87ce4de038f9e8b
+      internalID: -341270879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 277.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a03cad3ff1d7438747c254992b26d
+      internalID: 822438607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_13
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 277.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f46df1792d0474ca89380a7a854981
+      internalID: -1347326770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 277.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e681c427f399a644814e7dff27fd8e4
+      internalID: 1167624381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd8fedaa743db4ab051f08962f5f08
+      internalID: -1458948273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 140.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff2a5c400a4f84b8a1eaefc6b36330
+      internalID: -856543207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 140.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ddba0912fa7346a155e912a2959e2
+      internalID: -933513485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 140.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325cf5665c63fe4c83466e5d1ab69c4
+      internalID: 1901211409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_19
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 140.2
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766edb5b44e1cd348a33e6f4ace10e8b
+      internalID: 247107157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3c277ef592004cadba7b5f981f4d5
+      internalID: 731431993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3.199997
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17321b0177fbb4eb88ca90f80b227f
+      internalID: -334652148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3.199997
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c9ae674be3734e9e000abd5ac29e8
+      internalID: -1302213641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3.199997
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad8bc1477538d45b68064d53f99247
+      internalID: 849447929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janta - Copia_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3.199997
+        width: 127.4
+        height: 137.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20228288fd272944aa52750b34ed8881
+      internalID: 1192575468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b30c47d3e129b17409ea6e05efcdac0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      janta - Copia_0: 1904342387
+      janta - Copia_1: -439221012
+      janta - Copia_10: 1686712768
+      janta - Copia_11: -341270879
+      janta - Copia_12: 822438607
+      janta - Copia_13: -1347326770
+      janta - Copia_14: 1167624381
+      janta - Copia_15: -1458948273
+      janta - Copia_16: -856543207
+      janta - Copia_17: -933513485
+      janta - Copia_18: 1901211409
+      janta - Copia_19: 247107157
+      janta - Copia_2: -1907214018
+      janta - Copia_20: 731431993
+      janta - Copia_21: -334652148
+      janta - Copia_22: -1302213641
+      janta - Copia_23: 849447929
+      janta - Copia_24: 1192575468
+      janta - Copia_3: -280950407
+      janta - Copia_4: -154946962
+      janta - Copia_5: 824397002
+      janta - Copia_6: -977495896
+      janta - Copia_7: 2092550522
+      janta - Copia_8: 251377040
+      janta - Copia_9: -1098991024
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
